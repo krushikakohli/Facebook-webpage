@@ -1,0 +1,78 @@
+html, body 
+{
+margin: 0; 
+padding: 0;
+}
+a{
+color:#BDBEC1;
+}
+log_email.td{
+width="50%";
+}	
+body{	
+background-color:#D6DBDF;	
+}
+img.im{
+float:"top";
+}
+td.g{
+font-family:Segoe UI;
+font-size:16px;
+}
+table.log{
+color:white;		
+float:right;
+font-family:arial;
+font-size:86%;
+}
+h1{
+margin-left:120px;	
+font-family:Segoe UI;
+font-size:270%;
+color:white;
+}
+h3{	
+color:black;
+font-family:Segoe UI;
+}
+.button {
+ font-style:bold;
+ font-family:Segoe UI;
+ background-color: #599F34; 
+ border: none;
+ color: white;
+ padding: 12px 60px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 18px;
+ border-radius: 4px;
+ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+table.two{
+font-family:Segoe UI;
+font-size:250%;	
+color:black;		
+
+}
+form.data{
+float:center;
+}
+p.ab{
+font-size:230%;
+font-family:Segoe UI;
+color:black;		
+}
+.l{
+  font-family:Segoe UI;
+  background-color:#0431B4 ; 
+  border: none;
+  color: white;
+  padding: 1.8px 11px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.1), 0 4px 15px 0 rgba(0,0,0,0.10);
+}
+	
